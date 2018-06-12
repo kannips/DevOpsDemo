@@ -1,0 +1,18 @@
+﻿---
+ID: "b6839abe-1c67-40dc-8c1a-79940c455aab"
+Parent: "83794026-b400-402c-89b6-0b9e6bff84f3"
+Template: "83794026-b400-402c-89b6-0b9e6bff84f3"
+Path: /sitecore/templates/User Defined/Demo/HelloWorld/HelloWorld/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180611T124428Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
